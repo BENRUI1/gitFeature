@@ -1,1 +1,2 @@
 User 1 - first line
+Hot-fix file 1 from user 1
